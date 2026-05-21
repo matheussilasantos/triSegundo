@@ -1,0 +1,24 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1{
+    width: 250px;
+    background-color: rgb(46, 66, 99);
+    border-radius: 15px;
+}
+
+h2{
+    width: 250px;
+    background-color: rgb(46, 66, 99);
+    border-radius: 15px;
+}
+
+ul{
+    width: 250px;
+    background-color: rgb(46, 66, 99);
+    border-radius: 15px;
+}
